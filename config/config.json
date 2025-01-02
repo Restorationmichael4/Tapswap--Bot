@@ -1,8 +1,7 @@
 {
-  "numberOfClicks": 550,
+  "numberOfClicks": 700,
   "urls": [
-  "", 
-  "", 
-  "" 
-  ]
+    "https://telegram.geagle.online"
+  ],
+  "bearerToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjp7ImlkIjoiMWY3NWE5NzMtM2M2Ny00ZTVlLTk5NjktYWE0YzhjZDJiYTlmIiwiZmlyc3RfbmFtZSI6IkN5YmVycHVuayIsInVzZXJuYW1lIjoiQ3liclBuazcifSwic2Vzc2lvbl9pZCI6NTgzNDMyLCJzdWIiOiIxZjc1YTk3My0zYzY3LTRlNWUtOTk2OS1hYTRjOGNkMmJhOWYiLCJleHAiOjE3Mzg0MTA1ODF9.h8_xB4jKTgeqt9KjCc29m0fUWiJ-6fumsR_Rul5fHMg"
 }
