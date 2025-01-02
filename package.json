@@ -1,15 +1,16 @@
 {
   "name": "tapswap",
   "version": "1.0.0",
+  "description": "Automation tool for performing actions on websites using Puppeteer with BearerAuth and Telegram integration.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index"
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": ["automation", "puppeteer", "bearerauth", "telegram", "bot"],
+  "author": "Restoration Michael",
+  "license": "MIT",
   "dependencies": {
     "@mtproto/core": "^6.3.0",
     "axios": "^1.7.0",
